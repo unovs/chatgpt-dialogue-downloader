@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "ChatGPT Dialogue Downloader",
     "version": "0.1.0",
-    "description": "application for downloading chatgpt dialogue in different formats",
+    "description": "app to download chatgpt dialog",
     "author": "Airat Akhunov",
     "action": {
         "default_popup": "index.html",
